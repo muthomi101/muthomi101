@@ -1,10 +1,5 @@
 ### Victor Muthomi
 
-<<<<<<< HEAD
-_Backend Systems & Architecture_
-
-=======
->>>>>>> 4f6b4bc (update the readme)
 A pragmatic engineer focused on first-principles execution, stripping away over-engineering to build resilient, long-lived services.
 
 ---
